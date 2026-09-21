@@ -1,8 +1,12 @@
 # The file lists the github user handles for copyright holders.
 # For example, IKEA employees' github handles are listed here,
 # because IKEA holds the copyright.
-
-Antonia Pehrson     @TnyPny
+ 
+ 
+## Active Maintainers
 Jon Aspeheim        @jonAspeheim9
-Anton Berg          @OgmaSoul3D
-
+ 
+## Emeritus Maintainers
+*We thank former maintainers for their contributions to this project.*
+Antonia Pehrson     @TnyPny 	   - Maintainer 2021-2026
+Anton Berg          @OgmaSoul3D  - Maintainer 2021-2026
